@@ -1,13 +1,12 @@
 ### Bonjour, je suis Thibault 👋
 
-**AI engineer orienté produit.** Je conçois, livre et exploite des applications LLM
-utilisées en production par de vrais utilisateurs.
+**AI engineer orienté produit.** Je conçois, livre et déploie des applications LLM
+en production : agents à outils, RAG, orchestration multi-agents.
 
 J'ai créé **[AutoViti](https://autoviti.fr)**, un SaaS d'automatisation pour les
 domaines viticoles de Champagne. On y trouve un assistant IA qui agit sous contrôle
 humain, la lecture de justificatifs par vision, 28 workflows n8n et le paiement
-en ligne. Je l'ai mené de l'idée à la mise en production, et je l'exploite au
-quotidien.
+en ligne. Je l'ai mené de l'idée à la mise en production.
 
 🔎 Je cherche un poste d'**AI engineer / développeur d'applications LLM** · Baulne-en-Brie (Aisne)
 
@@ -17,6 +16,7 @@ quotidien.
 
 | Projet | |
 |---|---|
+| **[AI Engineering Platform](https://github.com/ThibaultVasseur/ai-engineering-platform)**<br/>Plateforme multi-agents | Orchestration LangGraph (superviseur, 4 agents spécialisés, critique avec reprises bornées), RAG hybride pgvector + plein texte avec citations vérifiées, outils à permissions, budgets de coût, isolation par tenant (RLS). 324 tests, 92 % de couverture, évaluation réelle sur 13 cas.<br/>`Python` `FastAPI` `LangGraph` `PostgreSQL` `pgvector` |
 | **[AutoViti](https://github.com/ThibaultVasseur/Autoviti)**<br/>SaaS IA en production | Assistant à function calling avec validation humaine, extraction structurée par GPT-4o Vision, orchestration n8n, multi-clients sécurisé par RLS, paiements Stripe Connect.<br/>`Next.js` `TypeScript` `Supabase` `OpenAI` `n8n` |
 | **[Deep Tycoon](https://github.com/ThibaultVasseur/deep-tycoon)**<br/>Jeu mobile | Jeu idle en Godot 4 : logique pure séparée du moteur, 49 tests headless, sauvegarde chiffrée et signée.<br/>`Godot 4` `GDScript` |
 
@@ -32,7 +32,7 @@ quotidien.
 
 #### Stack
 
-`TypeScript` `Next.js` `React` `PostgreSQL` `Supabase` `OpenAI API` `n8n` `Stripe`
+`Python` `TypeScript` `FastAPI` `Next.js` `React` `LangGraph` `PostgreSQL` `pgvector` `Supabase` `OpenAI API` `n8n` `Stripe`
 `Docker` `Vitest` `Godot`
 
 #### Contact
