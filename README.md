@@ -37,4 +37,4 @@ en ligne. Je l'ai mené de l'idée à la mise en production.
 
 #### Contact
 
-Par l'e-mail affiché sur mon profil GitHub · [autoviti.fr](https://autoviti.fr)
+[LinkedIn](https://www.linkedin.com/in/thibault-vasseur-0b633b184) · Par l'e-mail affiché sur mon profil GitHub · [autoviti.fr](https://autoviti.fr)
